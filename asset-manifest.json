@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sabadito/static/css/main.17747c9b.css",
+    "main.js": "/sabadito/static/js/main.8a24ab1a.js",
+    "static/js/787.d2f7221f.chunk.js": "/sabadito/static/js/787.d2f7221f.chunk.js",
+    "static/media/logo.svg": "/sabadito/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sabadito/index.html",
+    "main.17747c9b.css.map": "/sabadito/static/css/main.17747c9b.css.map",
+    "main.8a24ab1a.js.map": "/sabadito/static/js/main.8a24ab1a.js.map",
+    "787.d2f7221f.chunk.js.map": "/sabadito/static/js/787.d2f7221f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17747c9b.css",
+    "static/js/main.8a24ab1a.js"
+  ]
+}
